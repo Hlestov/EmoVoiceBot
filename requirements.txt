@@ -1,0 +1,6 @@
+aiogram==2.25.1
+nest-asyncio==1.5.6
+pydub==0.25.1
+torch @ https://download.pytorch.org/whl/cu118/torch-2.0.0%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=4b690e2b77f21073500c65d8bb9ea9656b8cb4e969f357370bbc992a3b074764
+torchaudio @ https://download.pytorch.org/whl/cu118/torchaudio-2.0.1%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=19c4ef9012324c4fb80ea66934551b7807d97148c28538e2eabafe16ab50e91c
+transformers==4.29.0
